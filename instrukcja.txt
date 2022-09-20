@@ -1,0 +1,5 @@
+zbudowanie projektu
+mvn clean package
+
+uruchomienie aplikacji
+mvn spring-boot:run
